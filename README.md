@@ -31,6 +31,7 @@ Compare customer satisfaction by aircraft and class.
 Identify patterns and trends in service ratings.
 
 Make informed decisions or recommendations based on review data.
-
+🔗 Links
+https://public.tableau.com/app/profile/raziel.zayas.severino/viz/BritishAirwayReviewMoChen/Dashboard1#1
 
  - Special thanks to Mo Chen for the guidance!
